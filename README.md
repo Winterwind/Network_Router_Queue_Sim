@@ -1,2 +1,2 @@
 # Network_Router_Queue_Sim
-A simulation of a network router queue (results print in separate .log file)
+A simulation of a network router queue as a part of my Computer Networks class' final project. The repo consists of five classes for the various objects referenced within the [QueueSim.py](QueueSim.py) file, where the actual simulation logic is housed. This file is also where the results print from, but thanks to the ```logging``` library, these results print in a separate file; [the .log file I included in this repo](QueueSim.log) has the results I used while completing this project. The repo also includes [the report](CSC424_Project_2.pdf) I had to write up and [the LaTeX file](main.tex) that produced it.
